@@ -1,0 +1,1451 @@
+{
+  "products": [
+    {
+      "name": "Espresso",
+      "sell_price":1.40,
+      "sale_ratio":"10%",
+      "ingredients": [
+        {"name": "Espresso beans", "quantity_usedIn_product_per_buying_unit": 22, "unit":"grams","buying_price":17.3, "buying_unit": 1000},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 60,"unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Americano",
+      "sell_price":1.50,
+      "sale_ratio":"4%",
+      "ingredients": [
+        {"name": "Espresso beans", "quantity_usedIn_product_per_buying_unit": 22, "unit":"grams","buying_price":17.3,"buying_unit": 1000},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 180,"unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Latte",
+      "sell_price":2.30,
+      "sale_ratio":"7%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 180 , "unit":"ml","buying_price":1.3,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Cappuccino",
+      "sell_price":2.10,
+      "sale_ratio":"6%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 120 , "unit":"ml","buying_price":1.3,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Macchiato",
+      "sell_price":1.90,
+      "sale_ratio":"3%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 60, "unit":"ml","buying_price":1.3,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Mocha",
+      "sell_price":3.50,
+      "sale_ratio":"2.5%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30, "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 180, "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Chocolate syrup", "quantity_usedIn_product_per_buying_unit": 20, "unit":"grams","buying_price":14.3,"buying_unit": 700}
+      ]
+    },
+    {
+      "name": "Flat white",
+      "sell_price":2.20,
+      "sale_ratio":"1%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 160, "unit":"ml","buying_price":1.3,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Affogato",
+      "sell_price":2.70,
+      "sale_ratio":"1.25%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":0.5,"buying_unit":1},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 60, "unit":"grams","buying_price":4.7,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Caramel macchiato",
+      "sell_price":4.15,
+      "sale_ratio":"4%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30, "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 240, "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Caramel sauce", "quantity_usedIn_product_per_buying_unit": 20, "unit":"grams","buying_price":11.2,"buying_unit": 500}
+      ]
+    },
+    {
+      "name": "Misto",
+      "sell_price":2.00,
+      "sale_ratio":"0.75%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30, "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 240, "unit":"ml","buying_price":0.5,"buying_unit": 1500},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 60, "unit":"ml","buying_price":1.3,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Cortado",
+      "sell_price":1.90,
+      "sale_ratio":"0.50%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":1.3,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Black tea",
+      "sell_price":1.10,
+      "sale_ratio":"8%",
+      "ingredients": [
+        {"name": "Black tea loose leaf", "quantity_usedIn_product_per_buying_unit": 3, "unit":"grams","buying_price":6.4,"buying_unit": 500},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 240, "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Green tea",
+      "sell_price":1.10,
+      "sale_ratio":"4.25%",
+      "ingredients": [
+        {"name": "Green tea loose leaf", "quantity_usedIn_product_per_buying_unit": 3 , "unit":"grams","buying_price":6.9,"buying_unit": 500},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 240 , "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Sour tea",
+      "sell_price":2.15,
+      "sale_ratio":"1%",
+      "ingredients": [
+        {"name": "Dried hibiscus flowers", "quantity_usedIn_product_per_buying_unit": 8 , "unit":"grams","buying_price":21.4,"buying_unit": 1000},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 240 , "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Mint tea",
+      "sell_price":1.00,
+      "sale_ratio":"1%",
+      "ingredients": [
+        {"name": "Dried mint leaf", "quantity_usedIn_product_per_buying_unit": 3 , "unit":"grams","buying_price":4.8,"buying_unit": 250},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 240 , "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Earl grey tea",
+      "sell_price":1.70,
+      "sale_ratio":"1.25%",
+      "ingredients": [
+        {"name": "Black tea loose leaf", "quantity_usedIn_product_per_buying_unit": 5, "unit":"grams","buying_price":6.4,"buying_unit": 500},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 240, "unit":"ml","buying_price":0.5,"buying_unit": 1500},
+        {"name": "Honey", "quantity_usedIn_product_per_buying_unit": 10, "unit":"grams","buying_price":1.8,"buying_unit": 340}
+      ]
+    },
+    {
+      "name": "Ginger tea",
+      "sell_price":1.80,
+      "sale_ratio":"0.25%",
+      "ingredients": [
+        {"name": "Dried ginger root", "quantity_usedIn_product_per_buying_unit": 15, "unit":"grams","buying_price":1.2,"buying_unit": 125},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 240, "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Chocolate cake",
+      "sell_price": 9.75,
+      "sale_ratio": "2.75%",
+      "ingredients": [
+        {"name": "All-purpose flour", "quantity_usedIn_product_per_buying_unit": 240, "unit": "grams", "buying_price": 5.8, "buying_unit": 500},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 400, "unit": "grams", "buying_price": 1.2, "buying_unit": 1000},
+        {"name": "Cocoa powder", "quantity_usedIn_product_per_buying_unit": 75, "unit": "grams", "buying_price": 13.0, "buying_unit": 1000},
+        {"name": "Baking powder", "quantity_usedIn_product_per_buying_unit": 10, "unit": "grams", "buying_price": 0.8, "buying_unit": 100},
+        {"name": "Baking soda", "quantity_usedIn_product_per_buying_unit": 8, "unit": "grams", "buying_price": 8.1, "buying_unit": 1000},
+        {"name": "Salt", "quantity_usedIn_product_per_buying_unit": 5, "unit": "grams", "buying_price": 0.5, "buying_unit": 1000},
+        {"name": "Eggs", "quantity_usedIn_product_per_buying_unit": 2, "unit": "pieces", "buying_price": 2.9, "buying_unit": 12},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 240, "unit": "ml", "buying_price": 1.3, "buying_unit": 1000},
+        {"name": "Vegetable oil", "quantity_usedIn_product_per_buying_unit": 240, "unit": "ml", "buying_price": 2.3, "buying_unit": 1000},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 10, "unit": "ml", "buying_price": 14.1, "buying_unit": 118}
+      ]
+    },
+    {
+      "name": "Lemon cake",
+      "sell_price": 9.10,
+      "sale_ratio": "2.25%",
+      "ingredients": [
+        {"name": "All-purpose flour", "quantity_usedIn_product_per_buying_unit": 240, "unit": "grams", "buying_price": 5.8, "buying_unit": 500},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 300, "unit": "grams", "buying_price": 1.2, "buying_unit": 1000},
+        {"name": "Baking powder", "quantity_usedIn_product_per_buying_unit": 10, "unit": "grams", "buying_price": 0.8, "buying_unit": 100},
+        {"name": "Salt", "quantity_usedIn_product_per_buying_unit": 3, "unit": "grams", "buying_price": 0.5, "buying_unit": 1000},
+        {"name": "Butter", "quantity_usedIn_product_per_buying_unit": 225, "unit": "grams", "buying_price": 1.5, "buying_unit": 250},
+        {"name": "Eggs", "quantity_usedIn_product_per_buying_unit": 4, "unit": "pieces", "buying_price": 2.9, "buying_unit": 12},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 180, "unit": "ml", "buying_price": 1.3, "buying_unit": 1000},
+        {"name": "Lemon juice", "quantity_usedIn_product_per_buying_unit": 60, "unit": "ml", "buying_price": 1.9, "buying_unit": 500}
+      ]
+    },
+    {
+      "name": "Carrot cake",
+      "sell_price": 12.40,
+      "sale_ratio": "1.25%",
+      "ingredients": [
+        {"name": "All-purpose flour", "quantity_usedIn_product_per_buying_unit": 240, "unit": "grams", "buying_price": 5.8, "buying_unit": 500},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 400, "unit": "grams", "buying_price": 1.2, "buying_unit": 1000},
+        {"name": "Baking powder", "quantity_usedIn_product_per_buying_unit": 10, "unit": "grams", "buying_price": 0.8, "buying_unit": 100},
+        {"name": "Baking soda", "quantity_usedIn_product_per_buying_unit": 8, "unit": "grams", "buying_price": 8.1, "buying_unit": 1000},
+        {"name": "Salt", "quantity_usedIn_product_per_buying_unit": 5, "unit": "grams", "buying_price": 0.5, "buying_unit": 1000},
+        {"name": "Ground cinnamon", "quantity_usedIn_product_per_buying_unit": 5, "unit": "grams", "buying_price": 6.25, "buying_unit": 500},
+        {"name": "Ground ginger", "quantity_usedIn_product_per_buying_unit": 2, "unit": "grams", "buying_price": 8.65, "buying_unit": 500},
+        {"name": "Eggs", "quantity_usedIn_product_per_buying_unit": 4, "unit": "pieces", "buying_price": 2.9, "buying_unit": 12},
+        {"name": "Vegetable oil", "quantity_usedIn_product_per_buying_unit": 360, "unit": "ml", "buying_price": 2.3, "buying_unit": 1000},
+        {"name": "Grated carrots", "quantity_usedIn_product_per_buying_unit": 300, "unit": "grams", "buying_price": 4.5, "buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Strawberry cake",
+      "sell_price": 10.90,
+      "sale_ratio": "2.5%",
+      "ingredients": [
+        {"name": "All-purpose flour", "quantity_usedIn_product_per_buying_unit": 125, "unit": "grams", "buying_price": 5.8, "buying_unit": 500},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 10, "unit": "grams", "buying_price": 1.2, "buying_unit": 500},
+        {"name": "Baking powder", "quantity_usedIn_product_per_buying_unit": 2.5, "unit": "grams", "buying_price": 0.8, "buying_unit": 100},
+        {"name": "Salt", "quantity_usedIn_product_per_buying_unit": 1.25, "unit": "grams", "buying_price": 0.5, "buying_unit": 300},
+        {"name": "Butter", "quantity_usedIn_product_per_buying_unit": 50, "unit": "ml", "buying_price": 3.5, "buying_unit": 250},
+        {"name": "Cream", "quantity_usedIn_product_per_buying_unit": 62.5, "unit": "grams", "buying_price": 4.0, "buying_unit": 500},
+        {"name": "Strawberries", "quantity_usedIn_product_per_buying_unit": 340, "unit": "grams", "buying_price": 5.5, "buying_unit": 1000}
+        
+      ]
+    },
+    {
+      "name": "Red Velvet Cake",
+      "sell_price": 14.90,
+      "sale_ratio": "3.0%",
+      "ingredients": [
+        {"name": "All-purpose flour", "quantity_usedIn_product_per_buying_unit": 240, "unit": "grams", "buying_price": 5.8, "buying_unit": 500},
+        {"name": "Cocoa powder", "quantity_usedIn_product_per_buying_unit": 75, "unit": "grams", "buying_price": 13, "buying_unit": 1000},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 200, "unit": "grams", "buying_price": 1.2, "buying_unit": 1000},
+        {"name": "Baking soda", "quantity_usedIn_product_per_buying_unit": 50, "unit": "grams", "buying_price": 8.1, "buying_unit": 1000},
+        {"name": "Salt", "quantity_usedIn_product_per_buying_unit": 2.5, "unit": "grams", "buying_price": 0.5, "buying_unit": 100},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 250, "unit": "ml", "buying_price": 1.3, "buying_unit": 1000},
+        {"name": "Vegetable oil", "quantity_usedIn_product_per_buying_unit": 125, "unit": "ml", "buying_price": 2.3, "buying_unit": 1000},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 100, "unit":"ml","buying_price":0.5,"buying_unit": 1500},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 5, "unit": "ml", "buying_price": 14.1, "buying_unit": 118},
+        {"name": "Eggs", "quantity_usedIn_product_per_buying_unit": 2, "unit": "pieces", "buying_price": 2.9, "buying_unit": 12}
+        ]
+    },
+    {
+      "name": "Cheesecake",
+      "sell_price":17.5,
+      "sale_ratio":"2.25%",
+      "ingredients": [
+        {"name": "Graham cracker crumbs", "quantity_usedIn_product_per_buying_unit": 150 , "unit":"grams","buying_price":10.8,"buying_unit": 500},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 300 , "unit":"grams", "buying_price": 1.2, "buying_unit": 500},
+        {"name": "Butter", "quantity_usedIn_product_per_buying_unit": 115 , "unit":"grams","buying_price": 3.5, "buying_unit": 250},
+        {"name": "Cream cheese", "quantity_usedIn_product_per_buying_unit": 9.6 , "unit":"grams","buying_price":1.5,"buying_unit": 200},
+        {"name": "Cream", "quantity_usedIn_product_per_buying_unit": 240 , "unit":"ml","buying_price": 4.0, "buying_unit": 500},
+        {"name": "Eggs", "quantity_usedIn_product_per_buying_unit": 4, "unit":"pieces","buying_price": 2.9, "buying_unit": 12},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 10 , "unit":"ml","buying_price":14.1,"buying_unit": 118},
+        {"name": "Lemon juice", "quantity_usedIn_product_per_buying_unit": 15 , "unit":"ml","buying_price":1.9,"buying_unit": 500}
+      ]
+    },
+    {
+      "name": "Chocolate milkshake",
+      "sell_price":8.5,
+      "sale_ratio":"3.5%",
+      "ingredients": [
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 250 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":4.7,"buying_unit": 1000},
+        {"name": "Chocolate syrup", "quantity_usedIn_product_per_buying_unit": 40, "unit":"ml","buying_price":14.3,"buying_unit": 700},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 15 , "unit":"ml","buying_price":14.1,"buying_unit": 118}
+      ]
+    },
+    {
+      "name": "Vanilla milkshake",
+      "sell_price":6.50,
+      "sale_ratio":"1.75%",
+      "ingredients": [
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 250 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":4.7,"buying_unit": 1000},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 15 , "unit":"ml","buying_price":14.1,"buying_unit": 118}
+      ]
+    },
+    {
+      "name": "Coffee milkshake",
+      "sell_price":3.60,
+      "sale_ratio":"1%",
+      "ingredients": [
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 250 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":4.7,"buying_unit": 1000},
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 30 , "unit":"ml","buying_price":0.5,"buying_unit": 1},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 5 , "unit":"grams","buying_price":1.2,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Strawberry milkshake",
+      "sell_price":10.65,
+      "sale_ratio":"2%",
+      "ingredients": [
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 250 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 125, "unit":"grams","buying_price":4.7,"buying_unit": 1000},
+        {"name": "Strawberries", "quantity_usedIn_product_per_buying_unit": 150 , "unit":"grams","buying_price":6.9,"buying_unit": 1000},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 5 , "unit":"ml","buying_price":1.2,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Banana milkshake",
+      "sell_price":4.75,
+      "sale_ratio":"2.25%",
+      "ingredients": [
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 250 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":4.7,"buying_unit": 1000},
+        {"name": "Banana", "quantity_usedIn_product_per_buying_unit": 1, "unit":"pieces","buying_price":1.0,"buying_unit": 5},
+        {"name": "Honey", "quantity_usedIn_product_per_buying_unit": 15, "unit":"ml","buying_price":1.8,"buying_unit": 340}
+      ]
+    },
+    {
+      "name": "Strawberry banana smoothie",
+      "sell_price":6.00,
+      "sale_ratio":"2.75%",
+      "ingredients": [
+        {"name": "Strawberries", "quantity_usedIn_product_per_buying_unit": 250, "unit":"grams","buying_price":6.9,"buying_unit": 1000},
+        {"name": "Banana", "quantity_usedIn_product_per_buying_unit": 1, "unit":"pieces","buying_price":1.0,"buying_unit": 5},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Yogurt", "quantity_usedIn_product_per_buying_unit": 62.5, "unit":"ml","buying_price":2.2,"buying_unit": 450},
+        {"name": "Honey", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"ml","buying_price":1.8,"buying_unit": 340},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 12.5, "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Chocolate banana smoothie",
+      "sell_price":3.10,
+      "sale_ratio":"1.75%",
+      "ingredients": [
+        {"name": "Banana", "quantity_usedIn_product_per_buying_unit": 1, "unit":"pieces","buying_price":1.0,"buying_unit": 5},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 12.5 , "unit":"ml","buying_price":0.5,"buying_unit": 1500},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":4.7,"buying_unit": 1000},
+        {"name": "Chocolate syrup", "quantity_usedIn_product_per_buying_unit": 15 , "unit":"ml","buying_price":14.3,"buying_unit": 700}
+      ]
+    },
+    {
+      "name": "Mango smoothie",
+      "sell_price":7.35,
+      "sale_ratio":"2%",
+      "ingredients": [
+        {"name": "Mango", "quantity_usedIn_product_per_buying_unit": 250, "unit":"grams","buying_price":4.5,"buying_unit": 450},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Yogurt", "quantity_usedIn_product_per_buying_unit": 62.5 , "unit":"ml","buying_price":2.2,"buying_unit": 450},
+        {"name": "Honey", "quantity_usedIn_product_per_buying_unit": 12.5 , "unit":"ml","buying_price":1.8,"buying_unit": 340},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 12.5 , "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Peanut (butter) banana smoothie",
+      "sell_price":2.40,
+      "sale_ratio":"0.25%",
+      "ingredients": [
+        {"name": "Peanut butter", "quantity_usedIn_product_per_buying_unit": 25 , "unit":"grams","buying_price":8.9,"buying_unit": 1000},
+        {"name": "Banana", "quantity_usedIn_product_per_buying_unit": 1, "unit":"pieces","buying_price":1.0,"buying_unit": 5},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Yogurt", "quantity_usedIn_product_per_buying_unit": 62.5 , "unit":"grams","buying_price":2.2,"buying_unit": 450},
+        {"name": "Honey", "quantity_usedIn_product_per_buying_unit": 12.5, "unit":"ml","buying_price":1.8,"buying_unit": 340},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 12.5, "unit":"ml","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Ice tea",
+      "sell_price":1.30,
+      "sale_ratio":"0.75%",
+      "ingredients": [
+        {"name": "Black tea loose leaf", "quantity_usedIn_product_per_buying_unit": 14 , "unit":"grams","buying_price":6.4,"buying_unit": 500},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 2 , "unit":"Liter","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Ice coffee",
+      "sell_price":0.70,
+      "sale_ratio":"1.75%",
+      "ingredients": [
+        {"name": "Espresso", "quantity_usedIn_product_per_buying_unit": 15 , "unit":"grams","buying_price":0.5,"buying_unit": 1},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 215 , "unit":"ml","buying_price":0.5,"buying_unit": 1500},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 5 , "unit":"grams","buying_price":1.2,"buying_unit": 1000}
+      ]
+    },
+    {
+      "name": "Lemonade",
+      "sell_price":2.30,
+      "sale_ratio":"3%",
+      "ingredients": [
+        {"name": "Lemon juice", "quantity_usedIn_product_per_buying_unit": 240, "unit":"ml","buying_price":1.9,"buying_unit": 500},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 200 , "unit":"grams","buying_price":1.2,"buying_unit": 1000},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 1.4 , "unit":"Liter","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Mojito",
+      "sell_price":1.70,
+      "sale_ratio":"2.5%",
+      "ingredients": [
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 200 , "unit":"grams","buying_price":1.2,"buying_unit": 1000},
+        {"name": "Dried mint leaf", "quantity_usedIn_product_per_buying_unit": 3 , "unit":"grams","buying_price":17.3,"buying_unit": 250},
+        {"name": "Lemon juice", "quantity_usedIn_product_per_buying_unit": 120 , "unit":"ml","buying_price":1.9,"buying_unit": 500},
+        {"name": "Water", "quantity_usedIn_product_per_buying_unit": 1.4 , "unit":"Liter","buying_price":0.5,"buying_unit": 1500}
+      ]
+    },
+    {
+      "name": "Frappuccino",
+      "sell_price":5.35,
+      "sale_ratio":"1%",
+      "ingredients": [
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 250 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Ice-cream", "quantity_usedIn_product_per_buying_unit": 125 , "unit":"grams","buying_price":4.7,"buying_unit": 1000},
+        {"name": "Chocolate syrup", "quantity_usedIn_product_per_buying_unit": 40 , "unit":"ml","buying_price":14.3,"buying_unit": 700},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 15 , "unit":"ml","buying_price":14.1,"buying_unit": 118}
+      ]
+    },
+    {
+      "name": "Honey & Milk",
+      "sell_price":0.65,
+      "sale_ratio":"1.75%",
+      "ingredients": [
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 240 , "unit":"grams","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Honey", "quantity_usedIn_product_per_buying_unit": 20 , "unit":"ml","buying_price":1.8,"buying_unit": 340}
+      ]
+    },
+    {
+      "name": "Hot chocolate",
+      "sell_price":1.10,
+      "sale_ratio":"2.25%",
+      "ingredients": [
+        {"name": "Cocoa powder", "quantity_usedIn_product_per_buying_unit": 10 , "unit":"grams","buying_price":13.0,"buying_unit": 1000},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 25 , "unit":"grams","buying_price":1.2,"buying_unit": 1000},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 240 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 2 , "unit":"ml","buying_price":14.1,"buying_unit": 118}
+      ]
+    },
+    {
+      "name": "Chocolate Milk",
+      "sell_price":1.30,
+      "sale_ratio":"2%",
+      "ingredients": [
+        {"name": "Cocoa powder", "quantity_usedIn_product_per_buying_unit": 15 , "unit":"grams","buying_price":13.0,"buying_unit": 1000},
+        {"name": "Sugar", "quantity_usedIn_product_per_buying_unit": 25 , "unit":"grams","buying_price":1.2,"buying_unit": 1000},
+        {"name": "Milk", "quantity_usedIn_product_per_buying_unit": 240 , "unit":"ml","buying_price":1.3,"buying_unit": 1000},
+        {"name": "Vanilla extract", "quantity_usedIn_product_per_buying_unit": 2.5 , "unit":"ml","buying_price":14.1,"buying_unit": 118}
+      ]
+    }
+  ],
+
+  "Ingredients":[
+    {
+        "name": "Espresso beans",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Espresso",
+                "Quantity_Used_In_Product": 22
+                
+            },
+            {
+                "name": "Americano",
+                "Quantity_Used_In_Product": 22
+                
+            }
+        ]
+    },
+    {
+        "name": "Water",
+        "buying_unit": 1500,
+        "Used_In_Product": [
+            {
+                "name": "Espresso",
+                "Quantity_Used_In_Product": 60
+                
+            },
+            {
+                "name": "Americano",
+                "Quantity_Used_In_Product": 180
+                
+            },
+            {
+                "name": "Misto",
+                "Quantity_Used_In_Product": 240
+                
+            },
+            {
+                "name": "Black tea",
+                "Quantity_Used_In_Product": 240
+                
+            },
+            {
+                "name": "Green tea",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Sour tea",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Mint tea",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Earl grey tea",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Ginger tea",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 100
+                 
+            },
+            {
+                "name": "Strawberry banana smoothie",
+                "Quantity_Used_In_Product": 12.5
+                 
+            },
+            {
+                "name": "Chocolate banana smoothie",
+                "Quantity_Used_In_Product": 12.5
+                 
+            },
+            {
+                "name": "Mango smoothie",
+                "Quantity_Used_In_Product": 12.5
+                 
+            },
+            {
+                "name": "Peanut (butter) banana smoothie",
+                "Quantity_Used_In_Product": 12.5
+                 
+            },
+            {
+                "name": "Ice tea",
+                "Quantity_Used_In_Product": 2
+                 
+            },
+            {
+                "name": "Ice coffee",
+                "Quantity_Used_In_Product": 215
+                 
+            },
+            {
+                "name": "Lemonade",
+                "Quantity_Used_In_Product": 1.4
+                 
+            },
+            {
+                "name": "Mojito",
+                "Quantity_Used_In_Product": 1.4
+                 
+            }
+        ]
+    },
+    {
+        "name": "Espresso",
+        "buying_unit": 1,
+        "Used_In_Product": [
+            {
+                "name": "Latte",
+                "Quantity_Used_In_Product": 30
+                
+            },
+            {
+                "name": "Cappuccino",
+                "Quantity_Used_In_Product": 30
+                
+            },
+            {
+                "name": "Macchiato",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Mocha",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Flat white",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Affogato",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Caramel macchiato",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Misto",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Cortado",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Coffee milkshake",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Ice coffee",
+                "Quantity_Used_In_Product": 15
+                
+            }
+        ]
+    },
+    {
+        "name": "Milk",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Latte",
+                "Quantity_Used_In_Product": 180
+                
+            },
+            {
+                "name": "Cappuccino",
+                "Quantity_Used_In_Product": 120
+                
+            },
+            {
+                "name": "Macchiato",
+                "Quantity_Used_In_Product": 60
+                 
+            },
+            {
+                "name": "Mocha",
+                "Quantity_Used_In_Product": 180
+                 
+            },
+            {
+                "name": "Flat white",
+                "Quantity_Used_In_Product": 160
+                 
+            },
+            {
+                "name": "Caramel macchiato",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Misto",
+                "Quantity_Used_In_Product": 60
+                 
+            },
+            {
+                "name": "Cortado",
+                "Quantity_Used_In_Product": 30
+                 
+            },
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 180
+                 
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 250
+                 
+            },
+            {
+                "name": "Chocolate milkshake",
+                "Quantity_Used_In_Product": 250
+                 
+            },
+            {
+                "name": "Vanilla milkshake",
+                "Quantity_Used_In_Product": 250
+                 
+            },
+            {
+                "name": "Coffee milkshake",
+                "Quantity_Used_In_Product": 250
+                 
+            },
+            {
+                "name": "Strawberry milkshake",
+                "Quantity_Used_In_Product": 250
+                 
+            },
+            {
+                "name": "Banana milkshake",
+                "Quantity_Used_In_Product": 250
+                 
+            },
+            {
+                "name": "Strawberry banana smoothie",
+                "Quantity_Used_In_Product": 125
+                 
+            },
+            {
+                "name": "Chocolate banana smoothie",
+                "Quantity_Used_In_Product": 125
+                 
+            },
+            {
+                "name": "Mango smoothie",
+                "Quantity_Used_In_Product": 125
+                 
+            },
+            {
+                "name": "Peanut (butter) banana smoothie",
+                "Quantity_Used_In_Product": 125
+                 
+            },
+            {
+                "name": "Ice coffee",
+                "Quantity_Used_In_Product": 125
+                 
+            },
+            {
+                "name": "Frappuccino",
+                "Quantity_Used_In_Product": 250
+                 
+            },
+            {
+                "name": "Honey & Milk",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Hot chocolate",
+                "Quantity_Used_In_Product": 240
+                 
+            },
+            {
+                "name": "Chocolate Milk",
+                "Quantity_Used_In_Product": 240
+                 
+            }
+        ]
+    },
+    {
+        "name": "Chocolate syrup",
+        "buying_unit": 700,
+        "Used_In_Product": [
+            {
+                "name": "Mocha",
+                "Quantity_Used_In_Product": 20
+                
+            },
+            {
+                "name": "Chocolate milkshake",
+                "Quantity_Used_In_Product": 40
+                 
+            },
+            {
+                "name": "Chocolate banana smoothie",
+                "Quantity_Used_In_Product": 15
+                 
+            },
+            {
+                "name": "Frappuccino",
+                "Quantity_Used_In_Product": 40
+                 
+            }
+        ]
+    },
+    {
+        "name": "Ice-cream",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Affogato",
+                "Quantity_Used_In_Product": 60
+                
+            },
+            {
+                "name": "Chocolate milkshake",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Vanilla milkshake",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Coffee milkshake",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Strawberry milkshake",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Banana milkshake",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Chocolate banana smoothie",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Frappuccino",
+                "Quantity_Used_In_Product": 125
+            }
+        ]
+    },
+    {
+        "name": "Caramel sauce",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Caramel macchiato",
+                "Quantity_Used_In_Product": 20
+                
+            }
+        ]
+    },
+    {
+        "name": "Black tea loose leaf",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Black tea",
+                "Quantity_Used_In_Product": 3
+                
+            },
+            {
+                "name": "Earl grey tea",
+                "Quantity_Used_In_Product": 5
+                
+            },
+            {
+                "name": "Ice tea",
+                "Quantity_Used_In_Product": 14
+                
+            }
+        ]
+    },
+    {
+        "name": "Green tea loose leaf",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Green tea",
+                "Quantity_Used_In_Product": 3
+                
+            }
+        ]
+    },
+    {
+        "name": "Dried hibiscus flowers",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Sour tea",
+                "Quantity_Used_In_Product": 8
+                
+            }
+        ]
+    },
+    {
+        "name": "Dried mint leaf",
+        "buying_unit": 250,
+        "Used_In_Product": [
+            {
+                "name": "Mint tea",
+                "Quantity_Used_In_Product": 3
+                
+            },
+            {
+                "name": "Mojito",
+                "Quantity_Used_In_Product": 3
+                
+            }
+        ]
+    },
+    {
+        "name": "Honey",
+        "buying_unit": 340,
+        "Used_In_Product": [
+            {
+                "name": "Earl grey tea",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Banana milkshake",
+                "Quantity_Used_In_Product": 15
+                
+            },
+            {
+                "name": "Strawberry banana smoothie",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Mango smoothie",
+                "Quantity_Used_In_Product": 12.5
+                
+            },
+            {
+                "name": "Peanut (butter) banana smoothie",
+                "Quantity_Used_In_Product": 12.5
+               
+            },
+            {
+                "name": "Honey & Milk",
+                "Quantity_Used_In_Product": 20
+                
+            }
+        ]
+    },
+    {
+        "name": "Dried ginger root",
+        "buying_unit": 125,
+        "Used_In_Product": [
+            {
+                "name": "Ginger tea",
+                "Quantity_Used_In_Product": 15
+                
+            }
+        ]
+    },
+    {
+        "name": "All-purpose flour",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 240
+                
+            },
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 240
+                
+            },
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 240
+                
+            },
+            {
+                "name": "Strawberry cake",
+                "Quantity_Used_In_Product": 125
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 240
+                
+            }
+        ]
+    },
+    {
+        "name": "Sugar",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 400
+                
+            },
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 300
+                
+            },
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 400
+                
+            },
+            {
+                "name": "Strawberry cake",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 200
+                
+            },
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 300
+                
+            },
+            {
+                "name": "Coffee milkshake",
+                "Quantity_Used_In_Product": 5
+                
+            },
+            {
+                "name": "Strawberry milkshake",
+                "Quantity_Used_In_Product": 5
+                
+            },
+            {
+                "name": "Ice coffee",
+                "Quantity_Used_In_Product": 5
+                
+            },
+            {
+                "name": "Lemonade",
+                "Quantity_Used_In_Product": 200
+                
+            },
+            {
+                "name": "Mojito",
+                "Quantity_Used_In_Product": 200
+                
+            },
+            {
+                "name": "Hot chocolate",
+                "Quantity_Used_In_Product": 25
+                
+            },
+            {
+                "name": "Chocolate Milk",
+                "Quantity_Used_In_Product": 25
+                
+            }
+        ]
+    },
+    {
+        "name": "Cocoa powder",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 75
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 75
+                
+            },
+            {
+                "name": "Hot chocolate",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Chocolate Milk",
+                "Quantity_Used_In_Product": 15
+                
+            }
+        ]
+    },
+    {
+        "name": "Baking powder",
+        "buying_unit": 100,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Strawberry cake",
+                "Quantity_Used_In_Product": 2.5
+                
+            }
+        ]
+    },
+    {
+        "name": "Baking soda",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 8
+                
+            },
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 8
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 50
+                
+            }
+        ]
+    },
+    {
+        "name": "Salt",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 5
+                
+            },
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 3
+                
+            },
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 5
+                
+            },
+            {
+                "name": "Strawberry cake",
+                "Quantity_Used_In_Product": 1.25
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 2.5
+              
+            }
+        ]
+    },
+    {
+        "name": "Eggs",
+        "buying_unit": 12,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 2
+                
+            },
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 4
+                
+            },
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 4
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 2
+                
+            },
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 4
+                
+            }
+        ]
+    },
+    {
+        "name": "Vegetable oil",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 240
+                
+            },
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 360
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 125
+                
+            }
+        ]
+    },
+    {
+        "name": "Vanilla extract",
+        "buying_unit": 118,
+        "Used_In_Product": [
+            {
+                "name": "Chocolate cake",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Red Velvet Cake",
+                "Quantity_Used_In_Product": 5
+                
+            },
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 10
+                
+            },
+            {
+                "name": "Chocolate milkshake",
+                "Quantity_Used_In_Product": 15
+                
+            },
+            {
+                "name": "Vanilla milkshake",
+                "Quantity_Used_In_Product": 15
+                
+            },
+            {
+                "name": "Frappuccino",
+                "Quantity_Used_In_Product": 15
+                
+            },
+            {
+                "name": "Hot chocolate",
+                "Quantity_Used_In_Product": 2
+                
+            },
+            {
+                "name": "Chocolate Milk",
+                "Quantity_Used_In_Product": 2.5
+                
+            }
+        ]
+    },
+    {
+        "name": "Butter",
+        "buying_unit": 250,
+        "Used_In_Product": [
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 225
+                
+            },
+            {
+                "name": "Strawberry cake",
+                "Quantity_Used_In_Product": 50
+                
+            },
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 115
+                
+            }
+        ]
+    },
+    {
+        "name": "Lemon juice",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Lemon cake",
+                "Quantity_Used_In_Product": 60
+                
+            },
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 15
+                
+            },
+            {
+                "name": "Lemonade",
+                "Quantity_Used_In_Product": 240
+                
+            },
+            {
+                "name": "Mojito",
+                "Quantity_Used_In_Product": 120
+                
+            }
+        ]
+    },
+    {
+        "name": "Ground cinnamon",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 5
+                
+            }
+        ]
+    },
+    {
+        "name": "Ground ginger",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 2
+                
+            }
+        ]
+    },
+    {
+        "name": "Grated carrots",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Carrot cake",
+                "Quantity_Used_In_Product": 300
+                
+            }
+        ]
+    },
+    {
+        "name": "Cream",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Strawberry cake",
+                "Quantity_Used_In_Product": 62.5
+                
+            },
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 240
+                
+            }
+        ]
+    },
+    {
+        "name": "Strawberries",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Strawberry cake",
+                "Quantity_Used_In_Product": 340
+                
+            },
+            {
+                "name": "Strawberry milkshake",
+                "Quantity_Used_In_Product": 150
+                
+            },
+            {
+                "name": "Strawberry banana smoothie",
+                "Quantity_Used_In_Product": 250
+                
+            }
+        ]
+    },
+    {
+        "name": "Graham cracker crumbs",
+        "buying_unit": 500,
+        "Used_In_Product": [
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 150
+                
+            }
+        ]
+    },
+    {
+        "name": "Cream cheese",
+        "buying_unit": 200,
+        "Used_In_Product": [
+            {
+                "name": "Cheesecake",
+                "Quantity_Used_In_Product": 9.6
+                
+            }
+        ]
+    },
+    {
+        "name": "Banana",
+        "buying_unit": 5,
+        "Used_In_Product": [
+            {
+                "name": "Banana milkshake",
+                "Quantity_Used_In_Product": 1
+                
+            },
+            {
+                "name": "Strawberry banana smoothie",
+                "Quantity_Used_In_Product": 1
+                
+            },
+            {
+                "name": "Chocolate banana smoothie",
+                "Quantity_Used_In_Product": 1
+                
+            },
+            {
+                "name": "Peanut (butter) banana smoothie",
+                "Quantity_Used_In_Product": 1
+                
+            }
+        ]
+    },
+    {
+        "name": "Yogurt",
+        "buying_unit": 450,
+        "Used_In_Product": [
+            {
+                "name": "Strawberry banana smoothie",
+                "Quantity_Used_In_Product": 62.5
+                
+            },
+            {
+                "name": "Mango smoothie",
+                "Quantity_Used_In_Product": 62.5
+                
+            },
+            {
+                "name": "Peanut (butter) banana smoothie",
+                "Quantity_Used_In_Product": 62.5
+                
+            }
+        ]
+    },
+    {
+        "name": "Mango",
+        "buying_unit": 450,
+        "Used_In_Product": [
+            {
+                "name": "Mango smoothie",
+                "Quantity_Used_In_Product": 250
+                
+            }
+        ]
+    },
+    {
+        "name": "Peanut butter",
+        "buying_unit": 1000,
+        "Used_In_Product": [
+            {
+                "name": "Peanut (butter) banana smoothie",
+                "Quantity_Used_In_Product": 25
+               
+            }
+        ]
+    }
+]
+}
